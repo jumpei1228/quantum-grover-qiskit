@@ -1,5 +1,7 @@
 # Qiskitで実装するGrover探索｜「あたり」を高速に見つける
 
+[![run](https://github.com/jumpei1228/quantum-grover-qiskit/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/quantum-grover-qiskit/actions/workflows/run.yml)
+
 量子探索アルゴリズム「グローバー」をQiskitで手を動かして実装。オラクルと拡散演算子の作り方、なぜ√N回で見つかるのか、反復回数の決め方までコード付きで解説します。概念記事の実装版。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
